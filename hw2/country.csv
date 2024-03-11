@@ -1,0 +1,256 @@
+Country_id,Country_Name,Country_Code,Country_Number
+1,"Afghanistan, Islamic Republic of",AFG,4
+2,"Albania, Republic of",ALB,8
+3,Antarctica (the territory South of 60 deg S),ATA,10
+4,"Algeria, People's Democratic Republic of",DZA,12
+5,American Samoa,ASM,16
+6,"Andorra, Principality of",AND,20
+7,"Angola, Republic of",AGO,24
+8,Antigua and Barbuda,ATG,28
+9,"Azerbaijan, Republic of",AZE,31
+10,"Argentina, Argentine Republic",ARG,32
+11,"Australia, Commonwealth of",AUS,36
+12,"Austria, Republic of",AUT,40
+13,"Bahamas, Commonwealth of the",BHS,44
+14,"Bahrain, Kingdom of",BHR,48
+15,"Bangladesh, People's Republic of",BGD,50
+16,"Armenia, Republic of",ARM,51
+17,Barbados,BRB,52
+18,"Belgium, Kingdom of",BEL,56
+19,Bermuda,BMU,60
+20,"Bhutan, Kingdom of",BTN,64
+21,"Bolivia, Republic of",BOL,68
+22,Bosnia and Herzegovina,BIH,70
+23,"Botswana, Republic of",BWA,72
+24,Bouvet Island (Bouvetoya),BVT,74
+25,"Brazil, Federative Republic of",BRA,76
+26,Belize,BLZ,84
+27,British Indian Ocean Territory (Chagos Archipelago),IOT,86
+28,Solomon Islands,SLB,90
+29,British Virgin Islands,VGB,92
+30,Brunei Darussalam,BRN,96
+31,"Bulgaria, Republic of",BGR,100
+32,"Myanmar, Union of",MMR,104
+33,"Burundi, Republic of",BDI,108
+34,"Belarus, Republic of",BLR,112
+35,"Cambodia, Kingdom of",KHM,116
+36,"Cameroon, Republic of",CMR,120
+37,Canada,CAN,124
+38,"Cape Verde, Republic of",CPV,132
+39,Cayman Islands,CYM,136
+40,Central African Republic,CAF,140
+41,"Sri Lanka, Democratic Socialist Republic of",LKA,144
+42,"Chad, Republic of",TCD,148
+43,"Chile, Republic of",CHL,152
+44,"China, People's Republic of",CHN,156
+45,Taiwan,TWN,158
+46,Christmas Island,CXR,162
+47,Cocos (Keeling) Islands,CCK,166
+48,"Colombia, Republic of",COL,170
+49,"Comoros, Union of the",COM,174
+50,Mayotte,MYT,175
+51,"Congo, Republic of the",COG,178
+52,"Congo, Democratic Republic of the",COD,180
+53,Cook Islands,COK,184
+54,"Costa Rica, Republic of",CRI,188
+55,"Croatia, Republic of",HRV,191
+56,"Cuba, Republic of",CUB,192
+57,"Cyprus, Republic of",CYP,196
+58,Czech Republic,CZE,203
+59,"Benin, Republic of",BEN,204
+60,"Denmark, Kingdom of",DNK,208
+61,"Dominica, Commonwealth of",DMA,212
+62,Dominican Republic,DOM,214
+63,"Ecuador, Republic of",ECU,218
+64,"El Salvador, Republic of",SLV,222
+65,"Equatorial Guinea, Republic of",GNQ,226
+66,"Ethiopia, Federal Democratic Republic of",ETH,231
+67,"Eritrea, State of",ERI,232
+68,"Estonia, Republic of",EST,233
+69,Faroe Islands,FRO,234
+70,Falkland Islands (Malvinas),FLK,238
+71,South Georgia and the South Sandwich Islands,SGS,239
+72,"Fiji, Republic of the Fiji Islands",FJI,242
+73,"Finland, Republic of",FIN,246
+74,?land Islands,ALA,248
+75,"France, French Republic",FRA,250
+76,French Guiana,GUF,254
+77,French Polynesia,PYF,258
+78,French Southern Territories,ATF,260
+79,"Djibouti, Republic of",DJI,262
+80,"Gabon, Gabonese Republic",GAB,266
+81,Georgia,GEO,268
+82,"Gambia, Republic of the",GMB,270
+83,"Palestinian Territory, Occupied",PSE,275
+84,"Germany, Federal Republic of",DEU,276
+85,"Ghana, Republic of",GHA,288
+86,Gibraltar,GIB,292
+87,"Kiribati, Republic of",KIR,296
+88,"Greece, Hellenic Republic",GRC,300
+89,Greenland,GRL,304
+90,Grenada,GRD,308
+91,Guadeloupe,GLP,312
+92,Guam,GUM,316
+93,"Guatemala, Republic of",GTM,320
+94,"Guinea, Republic of",GIN,324
+95,"Guyana, Co-operative Republic of",GUY,328
+96,"Haiti, Republic of",HTI,332
+97,Heard Island and McDonald Islands,HMD,334
+98,Holy See (Vatican City State),VAT,336
+99,"Honduras, Republic of",HND,340
+100,"Hong Kong, Special Administrative Region of China",HKG,344
+101,"Hungary, Republic of",HUN,348
+102,"Iceland, Republic of",ISL,352
+103,"India, Republic of",IND,356
+104,"Indonesia, Republic of",IDN,360
+105,"Iran, Islamic Republic of",IRN,364
+106,"Iraq, Republic of",IRQ,368
+107,Ireland,IRL,372
+108,"Israel, State of",ISR,376
+109,"Italy, Italian Republic",ITA,380
+110,"Cote d'Ivoire, Republic of",CIV,384
+111,Jamaica,JAM,388
+112,Japan,JPN,392
+113,"Kazakhstan, Republic of",KAZ,398
+114,"Jordan, Hashemite Kingdom of",JOR,400
+115,"Kenya, Republic of",KEN,404
+116,"Korea, Democratic People's Republic of",PRK,408
+117,"Korea, Republic of",KOR,410
+118,"Kuwait, State of",KWT,414
+119,Kyrgyz Republic,KGZ,417
+120,Lao People's Democratic Republic,LAO,418
+121,"Lebanon, Lebanese Republic",LBN,422
+122,"Lesotho, Kingdom of",LSO,426
+123,"Latvia, Republic of",LVA,428
+124,"Liberia, Republic of",LBR,430
+125,Libyan Arab Jamahiriya,LBY,434
+126,"Liechtenstein, Principality of",LIE,438
+127,"Lithuania, Republic of",LTU,440
+128,"Luxembourg, Grand Duchy of",LUX,442
+129,"Macao, Special Administrative Region of China",MAC,446
+130,"Madagascar, Republic of",MDG,450
+131,"Malawi, Republic of",MWI,454
+132,Malaysia,MYS,458
+133,"Maldives, Republic of",MDV,462
+134,"Mali, Republic of",MLI,466
+135,"Malta, Republic of",MLT,470
+136,Martinique,MTQ,474
+137,"Mauritania, Islamic Republic of",MRT,478
+138,"Mauritius, Republic of",MUS,480
+139,"Mexico, United Mexican States",MEX,484
+140,"Monaco, Principality of",MCO,492
+141,Mongolia,MNG,496
+142,"Moldova, Republic of",MDA,498
+143,"Montenegro, Republic of",MNE,499
+144,Montserrat,MSR,500
+145,"Morocco, Kingdom of",MAR,504
+146,"Mozambique, Republic of",MOZ,508
+147,"Oman, Sultanate of",OMN,512
+148,"Namibia, Republic of",NAM,516
+149,"Nauru, Republic of",NRU,520
+150,"Nepal, State of",NPL,524
+151,"Netherlands, Kingdom of the",NLD,528
+152,Netherlands Antilles,ANT,530
+153,Curaçao,CUW,531
+154,Aruba,ABW,533
+155,Sint Maarten (Netherlands),SXM,534
+156,"Bonaire, Sint Eustatius and Saba",BES,535
+157,New Caledonia,NCL,540
+158,"Vanuatu, Republic of",VUT,548
+159,New Zealand,NZL,554
+160,"Nicaragua, Republic of",NIC,558
+161,"Niger, Republic of",NER,562
+162,"Nigeria, Federal Republic of",NGA,566
+163,Niue,NIU,570
+164,Norfolk Island,NFK,574
+165,"Norway, Kingdom of",NOR,578
+166,"Northern Mariana Islands, Commonwealth of the",MNP,580
+167,United States Minor Outlying Islands,UMI,581
+168,"Micronesia, Federated States of",FSM,583
+169,"Marshall Islands, Republic of the",MHL,584
+170,"Palau, Republic of",PLW,585
+171,"Pakistan, Islamic Republic of",PAK,586
+172,"Panama, Republic of",PAN,591
+173,"Papua New Guinea, Independent State of",PNG,598
+174,"Paraguay, Republic of",PRY,600
+175,"Peru, Republic of",PER,604
+176,"Philippines, Republic of the",PHL,608
+177,Pitcairn Islands,PCN,612
+178,"Poland, Republic of",POL,616
+179,"Portugal, Portuguese Republic",PRT,620
+180,"Guinea-Bissau, Republic of",GNB,624
+181,"Timor-Leste, Democratic Republic of",TLS,626
+182,"Puerto Rico, Commonwealth of",PRI,630
+183,"Qatar, State of",QAT,634
+184,Reunion,REU,638
+185,Romania,ROU,642
+186,Russian Federation,RUS,643
+187,"Rwanda, Republic of",RWA,646
+188,Saint Barthelemy,BLM,652
+189,Saint Helena,SHN,654
+190,"Saint Kitts and Nevis, Federation of",KNA,659
+191,Anguilla,AIA,660
+192,Saint Lucia,LCA,662
+193,Saint Martin,MAF,663
+194,Saint Pierre and Miquelon,SPM,666
+195,Saint Vincent and the Grenadines,VCT,670
+196,"San Marino, Republic of",SMR,674
+197,"Sao Tome and Principe, Democratic Republic of",STP,678
+198,"Saudi Arabia, Kingdom of",SAU,682
+199,"Senegal, Republic of",SEN,686
+200,"Serbia, Republic of",SRB,688
+201,"Seychelles, Republic of",SYC,690
+202,"Sierra Leone, Republic of",SLE,694
+203,"Singapore, Republic of",SGP,702
+204,Slovakia (Slovak Republic),SVK,703
+205,"Vietnam, Socialist Republic of",VNM,704
+206,"Slovenia, Republic of",SVN,705
+207,"Somalia, Somali Republic",SOM,706
+208,"South Africa, Republic of",ZAF,710
+209,"Zimbabwe, Republic of",ZWE,716
+210,"Spain, Kingdom of",ESP,724
+211,South Sudan,SSD,728
+212,Western Sahara,ESH,732
+213,"Sudan, Republic of",SDN,736
+214,"Suriname, Republic of",SUR,740
+215,Svalbard & Jan Mayen Islands,SJM,744
+216,"Swaziland, Kingdom of",SWZ,748
+217,"Sweden, Kingdom of",SWE,752
+218,"Switzerland, Swiss Confederation",CHE,756
+219,Syrian Arab Republic,SYR,760
+220,"Tajikistan, Republic of",TJK,762
+221,"Thailand, Kingdom of",THA,764
+222,"Togo, Togolese Republic",TGO,768
+223,Tokelau,TKL,772
+224,"Tonga, Kingdom of",TON,776
+225,"Trinidad and Tobago, Republic of",TTO,780
+226,United Arab Emirates,ARE,784
+227,"Tunisia, Tunisian Republic",TUN,788
+228,"Turkey, Republic of",TUR,792
+229,Turkmenistan,TKM,795
+230,Turks and Caicos Islands,TCA,796
+231,Tuvalu,TUV,798
+232,"Uganda, Republic of",UGA,800
+233,Ukraine,UKR,804
+234,"Macedonia, The Former Yugoslav Republic of",MKD,807
+235,"Egypt, Arab Republic of",EGY,818
+236,United Kingdom of Great Britain & Northern Ireland,GBR,826
+237,"Guernsey, Bailiwick of",GGY,831
+238,"Jersey, Bailiwick of",JEY,832
+239,Isle of Man,IMN,833
+240,"Tanzania, United Republic of",TZA,834
+241,United States of America,USA,840
+242,United States Virgin Islands,VIR,850
+243,Burkina Faso,BFA,854
+244,"Uruguay, Eastern Republic of",URY,858
+245,"Uzbekistan, Republic of",UZB,860
+246,"Venezuela, Bolivarian Republic of",VEN,862
+247,Wallis and Futuna,WLF,876
+248,"Samoa, Independent State of",WSM,882
+249,Yemen,YEM,887
+250,"Zambia, Republic of",ZMB,894
+251,Disputed Territory,,
+252,Iraq-Saudi Arabia Neutral Zone,,
+253,United Nations Neutral Zone,,
+254,Spratly Islands,,
+255,Kosovo,RKS,895
